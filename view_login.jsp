@@ -59,7 +59,7 @@
             <div class="col-md-4 col-md-offset-4">
                 <div class="login-panel panel panel-default">
                     <div class="panel-heading">
-                        <h3 class="panel-title">Iniciar sesión</h3>
+                        <h3 class="panel-title">Iniciar sesión MODIFICADO</h3>
                     </div>
                     <div class="panel-body">
                          <form method="post" action="controllers/cont_login.jsp">
@@ -94,18 +94,6 @@
       </div>
     </footer>-->
     
-
-    <!-- jQuery -->
-    <script src="./login_files/jquery.min.js.descarga"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="./login_files/bootstrap.min.js.descarga"></script>
-
-    <!-- Metis Menu Plugin JavaScript -->
-    <script src="./login_files/metisMenu.min.js.descarga"></script>
-
-    <!-- Custom Theme JavaScript -->
-    <script src="./login_files/sb-admin-2.js.descarga"></script>
 
 
 
