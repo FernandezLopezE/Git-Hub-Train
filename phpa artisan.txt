@@ -1,0 +1,6 @@
+composer update
+php artisan  key:generate
+php artisan migrate:fresh
+php artisan serve
+
+php artisan db:seed 
