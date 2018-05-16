@@ -1,3 +1,5 @@
+
+https://www.w3schools.com/sql/trymysql.asp?filename=trysql_func_mysql_cast
 <?php
 
 namespace App\Http\Controllers;
@@ -360,7 +362,7 @@ class ConsultasController extends Controller
 		if($request->ajax()){
 
 			$fecha = Carbon::parse($fechaNacimiento);
-			$edad2 = Carbon::createFromDate($fecha->year, $fecha->month,$fecha->day)->diff(Carbon::now())->format('%y años, %m meses y %d dias');
+			$edad2 = Carbon::createFromDate($fecha->year, $fecha->month,$fecha->day)->diff(Carbon::now())->format('%y aÃ±os, %m meses y %d dias');
 			return response()->json($edad2);
 		
 		}
