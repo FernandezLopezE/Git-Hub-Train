@@ -1,0 +1,18 @@
+SMAP
+view_005fespacios_jsp.java
+JSP
+*S JSP
+*F
++ 0 view_espacios.jsp
+view_espacios.jsp
+*L
+5,47:48
+56,30:100
+85,34:130
+120,9:165
+128,4:174
+132,4:178,3
+136,3:190
+138:192,2
+139,61:194
+*E

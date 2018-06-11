@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/DateEjemp111">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" maxIdle="4" maxTotal="8" name="jdbc/pooldb" password="root" removeAbandoned="true" type="javax.sql.DataSource" url="jdbc:sqlserver://127.0.0.1:1433;databaseName=dataEjemp;" username="sa"/>
+</Context>
