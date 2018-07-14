@@ -1,3 +1,12 @@
+composer require barryvdh/laravel-dompdf
+composer require laravelcollective/html
+
+
+
+
+
+
+
 https://www.w3schools.com/sql/func_mysql_cast.asp
 
 https://blackrockdigital.github.io/startbootstrap-sb-admin/index.html
